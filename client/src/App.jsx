@@ -1,5 +1,4 @@
 import { Show, SignIn, SignInButton, SignUpButton, UserButton } from '@clerk/react';
-import React from 'react'
 
 export const App = () => {
   return (
